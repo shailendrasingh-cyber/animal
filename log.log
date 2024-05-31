@@ -1,0 +1,58 @@
+2023-08-28 13:23:13,876:INFO:root:Save the YOLO format into a .txt file.
+2023-08-28 13:23:13,876:INFO:root:Successfully completed the conversion from Pascal format to YOLO format.
+2023-08-28 13:23:29,018:INFO:root:Split the panda dataset into train, validation and test sets
+2023-08-28 13:23:29,218:INFO:root:Split the fox dataset into train, validation and test sets
+2023-08-28 13:23:29,339:INFO:root:Split the rhino dataset into train, validation and test sets
+2023-08-28 13:23:29,545:INFO:root:Split the tiger dataset into train, validation and test sets
+2023-08-28 13:23:29,910:INFO:root:Split the buffalo dataset into train, validation and test sets
+2023-08-28 13:23:30,154:INFO:root:Split the cheetah dataset into train, validation and test sets
+2023-08-28 13:23:30,319:INFO:root:Split the elephant dataset into train, validation and test sets
+2023-08-28 13:23:30,677:INFO:root:Split the zebra dataset into train, validation and test sets
+2023-08-28 13:23:31,019:INFO:root:Split the jaguar dataset into train, validation and test sets
+2023-08-28 13:23:31,322:INFO:root:Split the lion dataset into train, validation and test sets
+2023-08-28 13:23:31,322:INFO:root:Successfully completed the datasets splitting.
+2023-08-29 17:07:05,225:INFO:root:Detected Image
+2023-08-29 18:30:56,262:INFO:root:Detected Image
+2024-05-30 11:51:22,073:INFO:root:Detected Image
+2024-05-30 11:51:38,632:INFO:root:Detected Image
+2024-05-30 11:51:53,500:INFO:root:Detected Image
+2024-05-30 12:47:50,398:INFO:root:Model loaded successfully
+2024-05-30 12:47:52,359:INFO:root:Webcam opened successfully
+2024-05-30 12:48:15,426:INFO:root:Webcam released and windows closed
+2024-05-30 14:07:16,943:INFO:root:Model loaded successfully
+2024-05-30 14:07:18,758:INFO:root:Webcam opened successfully
+2024-05-30 14:07:24,648:ERROR:playsound:
+    Error 259 for command:
+        play alert.wav wait
+    The driver cannot recognize the specified command parameter.
+2024-05-30 14:07:24,649:ERROR:playsound:
+    Error 263 for command:
+        close alert.wav
+    The specified device is not open or is not recognized by MCI.
+2024-05-30 14:07:24,649:WARNING:playsound:Failed to close the file: alert.wav
+2024-05-30 14:23:55,425:INFO:root:Model loaded successfully
+2024-05-30 14:23:57,467:INFO:root:Webcam opened successfully
+2024-05-30 14:24:11,266:INFO:root:Animal detected and alert sound played
+2024-05-30 14:24:11,709:INFO:root:Animal detected and alert sound played
+2024-05-30 14:24:12,160:INFO:root:Animal detected and alert sound played
+2024-05-30 14:24:13,060:INFO:root:Animal detected and alert sound played
+2024-05-30 14:24:13,994:INFO:root:Animal detected and alert sound played
+2024-05-30 14:24:20,803:INFO:root:Webcam released and windows closed
+2024-05-30 14:38:48,077:INFO:root:Model loaded successfully
+2024-05-30 14:38:50,182:INFO:root:Webcam opened successfully
+2024-05-30 14:39:00,658:INFO:root:Animal detected and alert sound played
+2024-05-30 14:39:01,746:INFO:root:Animal detected and alert sound played
+2024-05-30 14:39:02,372:INFO:root:Animal detected and alert sound played
+2024-05-30 14:39:02,985:INFO:root:Animal detected and alert sound played
+2024-05-30 14:39:03,616:INFO:root:Animal detected and alert sound played
+2024-05-30 14:39:04,148:INFO:root:Animal detected and alert sound played
+2024-05-30 14:39:04,827:INFO:root:Animal detected and alert sound played
+2024-05-30 14:39:05,446:INFO:root:Animal detected and alert sound played
+2024-05-30 14:39:06,056:INFO:root:Animal detected and alert sound played
+2024-05-30 14:39:06,706:INFO:root:Animal detected and alert sound played
+2024-05-30 14:39:07,332:INFO:root:Animal detected and alert sound played
+2024-05-30 14:39:07,944:INFO:root:Animal detected and alert sound played
+2024-05-30 14:39:08,581:INFO:root:Animal detected and alert sound played
+2024-05-30 14:39:10,377:INFO:root:Animal detected and alert sound played
+2024-05-30 14:39:15,946:INFO:root:Animal detected and alert sound played
+2024-05-30 14:39:16,252:INFO:root:Webcam released and windows closed
